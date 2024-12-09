@@ -58,3 +58,6 @@ This project successfully analyzes and predicts the cost of studying abroad base
 - **Model Evaluation**: After comparing multiple regression models, the **Gradient Boosting Regressor** outperformed the **Random Forest Regressor**. The Gradient Boosting model demonstrated a **lower RMSE** and a **higher R²**, making it the most accurate model for predicting study costs. These results were verified and visualized through comparison graphs to highlight the performance differences.
 
 - **Visualization**: Several visualizations, including prediction vs. actual graphs, were used to better understand trends in the data and assess the accuracy of the model predictions.
+
+## License
+This project is licensed under the MIT License.
